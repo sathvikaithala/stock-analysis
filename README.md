@@ -21,4 +21,5 @@ After refactoring the code, I found that we did not account for an input that re
 ![Error that appears when an invalid year is entered for the first time.](initialerror.PNG)
 
 If they enter an invalid year twice, the program ends. 
+
 ![Error that appears after two failed attempts.](finalerror.PNG)
